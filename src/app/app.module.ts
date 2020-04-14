@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
-import { ZapatillaComponent } from '../zapatillas/zapatillas.component';
+import { ZapatillaComponent } from '/zapatillas/zapatillas.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
